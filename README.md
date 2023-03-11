@@ -1,4 +1,11 @@
 # list-job
+List Job Project with Vue3 and Vuex state management
+
+## Routing
+```
+/ => Home Page
+/jobList => listing jobs
+/jobDetail:id => Job detail page for selected job from joblist
 
 ## Project setup
 ```
@@ -22,3 +29,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+

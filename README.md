@@ -1,5 +1,6 @@
-# list-job
+# Job List Project
 List Job Project with Vue3 and Vuex state management
+For online app : https://jobsearch-vue.netlify.app/
 
 ## Routing
 ```
